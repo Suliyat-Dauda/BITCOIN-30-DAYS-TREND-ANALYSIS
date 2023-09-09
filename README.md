@@ -1,5 +1,7 @@
 # BITCOIN-30-DAYS-TREND-ANALYSIS
 
+![](picture.avif)
+
 ## INTRODUCTION
 This project utilizes candlestick Chart in Python library which is a versatile tool designed to shed light on financial market trends, stock price movements, and more to show 30-day trends on the prices of bitcoin. 
 
